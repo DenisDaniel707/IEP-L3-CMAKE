@@ -6,5 +6,5 @@ CXX_FLAGS =  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/Denis/Desktop/IEP/p1 -I/Users/Denis/Desktop/IEP/p1/src 
+CXX_INCLUDES = -I/Users/Denis/Desktop/IEP-L3-CMAKE/p1 -I/Users/Denis/Desktop/IEP-L3-CMAKE/p1/src 
 

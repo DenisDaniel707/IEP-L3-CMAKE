@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/Denis/Desktop/IEP/p1/src/square/square.cpp" "/Users/Denis/Desktop/IEP/build/p1/CMakeFiles/square.dir/src/square/square.cpp.o"
+  "/Users/Denis/Desktop/IEP-L3-CMAKE/p1/src/square/square.cpp" "/Users/Denis/Desktop/IEP-L3-CMAKE/build/p1/CMakeFiles/square.dir/src/square/square.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

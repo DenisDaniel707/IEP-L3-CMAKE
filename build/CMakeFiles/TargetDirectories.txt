@@ -1,8 +1,8 @@
-/Users/Denis/Desktop/IEP/build/CMakeFiles/rebuild_cache.dir
-/Users/Denis/Desktop/IEP/build/CMakeFiles/edit_cache.dir
-/Users/Denis/Desktop/IEP/build/p1/CMakeFiles/rebuild_cache.dir
-/Users/Denis/Desktop/IEP/build/p1/CMakeFiles/edit_cache.dir
-/Users/Denis/Desktop/IEP/build/p1/CMakeFiles/square.dir
-/Users/Denis/Desktop/IEP/build/p2/CMakeFiles/rebuild_cache.dir
-/Users/Denis/Desktop/IEP/build/p2/CMakeFiles/edit_cache.dir
-/Users/Denis/Desktop/IEP/build/p2/CMakeFiles/p1.dir
+/Users/Denis/Desktop/IEP-L3-CMAKE/build/CMakeFiles/rebuild_cache.dir
+/Users/Denis/Desktop/IEP-L3-CMAKE/build/CMakeFiles/edit_cache.dir
+/Users/Denis/Desktop/IEP-L3-CMAKE/build/p1/CMakeFiles/rebuild_cache.dir
+/Users/Denis/Desktop/IEP-L3-CMAKE/build/p1/CMakeFiles/edit_cache.dir
+/Users/Denis/Desktop/IEP-L3-CMAKE/build/p1/CMakeFiles/square.dir
+/Users/Denis/Desktop/IEP-L3-CMAKE/build/p2/CMakeFiles/rebuild_cache.dir
+/Users/Denis/Desktop/IEP-L3-CMAKE/build/p2/CMakeFiles/edit_cache.dir
+/Users/Denis/Desktop/IEP-L3-CMAKE/build/p2/CMakeFiles/p1.dir

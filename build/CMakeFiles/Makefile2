@@ -64,10 +64,10 @@ RM = /anaconda3/lib/python3.7/site-packages/cmake/data/CMake.app/Contents/bin/cm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/Denis/Desktop/IEP
+CMAKE_SOURCE_DIR = /Users/Denis/Desktop/IEP-L3-CMAKE
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/Denis/Desktop/IEP/build
+CMAKE_BINARY_DIR = /Users/Denis/Desktop/IEP-L3-CMAKE/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -133,14 +133,14 @@ p2/clean: p2/CMakeFiles/p1.dir/clean
 p1/CMakeFiles/square.dir/all:
 	$(MAKE) $(MAKESILENT) -f p1/CMakeFiles/square.dir/build.make p1/CMakeFiles/square.dir/depend
 	$(MAKE) $(MAKESILENT) -f p1/CMakeFiles/square.dir/build.make p1/CMakeFiles/square.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/Denis/Desktop/IEP/build/CMakeFiles --progress-num=3,4 "Built target square"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/Denis/Desktop/IEP-L3-CMAKE/build/CMakeFiles --progress-num=3,4 "Built target square"
 .PHONY : p1/CMakeFiles/square.dir/all
 
 # Build rule for subdir invocation for target.
 p1/CMakeFiles/square.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Denis/Desktop/IEP/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Denis/Desktop/IEP-L3-CMAKE/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p1/CMakeFiles/square.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Denis/Desktop/IEP/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Denis/Desktop/IEP-L3-CMAKE/build/CMakeFiles 0
 .PHONY : p1/CMakeFiles/square.dir/rule
 
 # Convenience name for target.
@@ -160,14 +160,14 @@ p1/CMakeFiles/square.dir/clean:
 p2/CMakeFiles/p1.dir/all: p1/CMakeFiles/square.dir/all
 	$(MAKE) $(MAKESILENT) -f p2/CMakeFiles/p1.dir/build.make p2/CMakeFiles/p1.dir/depend
 	$(MAKE) $(MAKESILENT) -f p2/CMakeFiles/p1.dir/build.make p2/CMakeFiles/p1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/Denis/Desktop/IEP/build/CMakeFiles --progress-num=1,2 "Built target p1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/Denis/Desktop/IEP-L3-CMAKE/build/CMakeFiles --progress-num=1,2 "Built target p1"
 .PHONY : p2/CMakeFiles/p1.dir/all
 
 # Build rule for subdir invocation for target.
 p2/CMakeFiles/p1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Denis/Desktop/IEP/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Denis/Desktop/IEP-L3-CMAKE/build/CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 p2/CMakeFiles/p1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Denis/Desktop/IEP/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Denis/Desktop/IEP-L3-CMAKE/build/CMakeFiles 0
 .PHONY : p2/CMakeFiles/p1.dir/rule
 
 # Convenience name for target.

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/Denis/Desktop/IEP/p1
+# Install script for directory: /Users/Denis/Desktop/IEP-L3-CMAKE/p1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
