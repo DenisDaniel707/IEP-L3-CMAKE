@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../p1/src/square/square.hpp
+
+/Users/Denis/Desktop/IEP/p2/main.cpp
+iostream
+-
+square/square.hpp
+-
+

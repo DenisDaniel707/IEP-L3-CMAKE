@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libsquare.a  CMakeFiles/square.dir/src/square/square.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libsquare.a
