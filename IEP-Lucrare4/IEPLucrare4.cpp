@@ -75,7 +75,7 @@ int main() {
 
 	//Programul defineste doua obiecte, initializeaza doar pe unul, iar celalalt ii copiaza atributele prin operatorul definit de noi
 
-	elev e1, e2;	//Item 5: Obiectele sunt initializate de constructorul default definit de noi (nume: NULL, id: 0)
+	elev e1, e2;	//Item 4: Obiectele sunt initializate de constructorul default definit de noi (nume: NULL, id: 0)
 
 	e1.SetElev("Marian", 62);
 
